@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\bin\Debug\net6.0\programm.exe
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\bin\Debug\net6.0\programm.deps.json
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\bin\Debug\net6.0\programm.runtimeconfig.json
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\bin\Debug\net6.0\programm.dll
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\bin\Debug\net6.0\programm.pdb
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\programm.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\programm.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\programm.AssemblyInfo.cs
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\programm.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\programm.dll
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\refint\programm.dll
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\programm.pdb
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\programm.genruntimeconfig.cache
+C:\Users\HP\Desktop\Product owner\Final_certif_1\final_work\final_certification\programm\obj\Debug\net6.0\ref\programm.dll
